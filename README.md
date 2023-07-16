@@ -54,11 +54,11 @@ To use the mathematical finance models, follow the installation instructions for
 
 - For the R models:
   - Ensure that R is installed on your machine.
-  - Install the required packages specified in each model's README file.
+  - Install the required packages specified in each model's file.
 
 - For the Python models:
   - Ensure that Python is installed on your machine.
-  - Install the required libraries specified in each model's README file.
+  - Install the required libraries specified in each model's file.
 
 ## Contributing
 Contributions to this repository are welcome. If you find any bugs, have suggestions for improvements, or would like to add new mathematical finance models, please submit a pull request. Your contributions can help expand the collection and enhance the usability of the models.
